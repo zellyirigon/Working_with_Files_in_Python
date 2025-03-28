@@ -4,10 +4,10 @@ This repo has a simple Jupyter notebook where I played around with file handling
 
 ## What You’ll Find Here 🔍
 
-- Creating text and CSV files.
+- Creating text, json and CSV files.
 - Reading file content and looping through lines.
 - Writing and appending data to files.
-- Moving, renaming, and deleting files with `os` and `shutil`.
+- Moving, copying, and renaming files with `os` and `shutil`.
 
 ## Why It Matters 💡
 
